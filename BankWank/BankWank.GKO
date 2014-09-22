@@ -1,0 +1,19 @@
+G04 DipTrace Beta 2.3.5.2*
+%INBankWank.GKO*%
+%MOIN*%
+%ADD11C,0.0055*%
+%FSLAX44Y44*%
+G04*
+G70*
+G90*
+G75*
+G01*
+%LNBoardOutline*%
+%LPD*%
+X230Y130D2*
+D11*
+Y11330D1*
+X13750D1*
+Y130D1*
+X230D1*
+M02*
